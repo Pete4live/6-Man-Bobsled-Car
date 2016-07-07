@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2086637391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42a00dbe1ce45ac955947cc5482a8882
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47e5080155a0c3ac2e9ffbbc14e366d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/6 Man Bobsled Car/6 Man Bobsled Car@6 person bobsled.prefab
+Dependencies: []

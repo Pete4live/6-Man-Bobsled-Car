@@ -1,0 +1,42 @@
+[16-07-07 14:58:22] Info: Compiling 6 Man Bobsled Car to bin/build-160707145822838.dll...
+[16-07-07 14:58:22] Info: Compiling from `ModSparkLoader.csproj`.
+[16-07-07 14:58:22] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/games/programfiles groot/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-07-07 14:58:22] Info: IGNORING assembly reference `Depender`
+[16-07-07 14:58:22] Info: Resolved assembly reference `System` to `System.dll`
+[16-07-07 14:58:22] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-07-07 14:58:22] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-07-07 14:58:22] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-07-07 14:58:22] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-07-07 14:58:22] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-07-07 14:58:22] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/games/programfiles groot/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-07-07 14:58:22] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/games/programfiles groot/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-07-07 14:58:22] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\6 Man Bobsled Car`.
+[16-07-07 14:58:22] Info: Compile using compiler version v3.5.
+[16-07-07 13:19:58] Info: Loaded build-160707131947325, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 13:19:58] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 13:21:36] Info: Loaded build-160707132125392, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 13:21:36] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 13:23:06] Info: Loaded build-160707132254527, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 13:23:06] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 14:29:25] Info: Loaded build-160707142914158, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 14:29:25] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 14:31:30] Info: Loaded build-160707143119695, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 14:31:30] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 14:33:34] Info: Loaded build-160707143326658, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 14:33:34] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 14:39:05] Info: Loaded build-160707143855055, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 14:39:05] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 14:42:03] Info: Loaded build-160707144153103, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 14:42:03] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 14:44:01] Info: Loaded build-160707144350957, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 14:44:01] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 14:47:43] Info: Loaded build-160707144732512, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 14:47:43] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 14:48:47] Info: Loaded build-160707144836740, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 14:48:47] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-07-07 14:58:33] Info: Loaded build-160707145822838, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-07-07 14:58:33] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ModLoader.LoadScenery () [0x00000] in <filename unknown>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ModLoader.LoadScenery () [0x00000] in <filename unknown>:0 

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>6 Man Bobsled Car</ModName>
+  <ModDiscription>6 Man Bobsled Car</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>6 Man Bobsled Car@6 person bobsled</OBJName>
+      <Type>CoasterCar</Type>
+      <inGameName>6 Man Bobsled Car</inGameName>
+      <price>0</price>
+      <CoasterName>Bobsled Coaster</CoasterName>
+      <RestraintAngle>(-35.0, 0.0, 0.0)</RestraintAngle>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>381D00</Color1>
+      <Color2>000000</Color2>
+      <Color3>000000</Color3>
+      <Color4>000000</Color4>
+    </Object>
+  </Objects>
+</Mod>
